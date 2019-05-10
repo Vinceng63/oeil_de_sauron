@@ -1,0 +1,28 @@
+#conteneur {
+border: 1px solid black;
+}
+
+.col-1 {
+padding: 4%;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.gris {
+background-color: #808080;
+}
+
+.jaune {
+background-color: #ffff00;
+} 
+
+.noir {
+background-color: #000000;
+}
+
+.orange {
+background-color: #ff9933;
+}
